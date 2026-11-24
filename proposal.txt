@@ -1,0 +1,4 @@
+Project outline 
+I have my own idea, I would like to get information on ski pass prices over the years. 
+My question would be someting in line of. "Are we being scam or is it the resorts growth that they need to finance or just inflation."
+I would take the prices from webarchive, put them into pandas visualize it.
